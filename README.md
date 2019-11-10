@@ -1,1 +1,1 @@
-# repair-design-project1
+At the start of checking this page, please compile sass styles to css, using the following command: sass src/scss/style.scss style.css
